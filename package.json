@@ -1,7 +1,6 @@
 {
   "name": "food-web",
   "version": "0.1.0",
-  "homepage": "https://Bahrein-LM.github.io/firstProject_foodWeb",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
@@ -25,9 +24,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "master -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
