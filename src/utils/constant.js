@@ -1,1 +1,1 @@
-export const API_URL = " https://my-json-server.typicode.com/Bahrein-LM/firstProject_foodWeb/";
+export const API_URL = "https://my-json-server.typicode.com/Bahrein-LM/db_foodWeb";
